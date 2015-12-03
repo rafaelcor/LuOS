@@ -1,0 +1,4 @@
+
+
+def googleSpeechToText(voiceFile):
+	return
